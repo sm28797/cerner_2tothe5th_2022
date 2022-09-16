@@ -1,4 +1,5 @@
 //cerner_2^5_2022
+//Factorial Program
 
 import java.util.Scanner;
 public class Factorial {
