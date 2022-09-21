@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class SumOfDigitsOfNumber {
 	public static void main(String[] args) {
         int n;
-        System.out.print("Enert the number to find sum of its digits : ");
+        System.out.print("Enter the number to find sum of its digits : ");
         Scanner s =new Scanner(System.in);
         n=s.nextInt();
         int num=n,sum=0;
