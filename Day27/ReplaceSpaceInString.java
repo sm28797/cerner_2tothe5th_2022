@@ -1,5 +1,5 @@
 // cerner_2^5_2022
-// cerner_2tothe5th_2021
+// cerner_2tothe5th_2022
 // Program to replace Spaces in a string with *
 
 import java.util.Scanner;
